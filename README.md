@@ -28,6 +28,11 @@ Signup Page: User registration with name, email, and password.
 
 
 
+![image alt](https://github.com/khushbu0130/Expense-Tracker-Application/blob/cb6509dce05b4664419350aa1bab6a90a11546f2/Screenshots/Backend%20Console.jpg)
+
+
+
+
 - **Auth + Protected UI** (Login/Signup flow).
 - **State management with React Context** and modular components.
 - **REST API** (Node/Express) + **MongoDB (Mongoose)** for persistence.
