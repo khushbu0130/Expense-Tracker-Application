@@ -35,7 +35,9 @@ Signup Page: User registration with name, email, and password.
 
 
 
-🔗 Demo Link : 
+🔗 Demo Link : https://expense-tracker-application-kappa.vercel.app/login
+
+
 - **Auth + Protected UI** (Login/Signup flow).
 - **State management with React Context** and modular components.
 - **REST API** (Node/Express) + **MongoDB (Mongoose)** for persistence.
@@ -88,21 +90,16 @@ root/
    # npm run dev:all
    ```
 
-## 🔌 Core Endpoints
+🔌 Core Endpoints
 - `POST /api/auth/register` – create user  
 - `POST /api/auth/login` – login & issue token  
 - `GET /api/transactions` – list all (for user)  
 - `POST /api/transactions` – add income/expense  
 - `DELETE /api/transactions/:id` – remove item
 
-## 📝 Highlights to mention in your resume/README
-- Implemented **JWT auth** and protected routes.
-- Designed **transaction model** with amount sign (positive=income, negative=expense) and server-side validation.
-- Built a **Context-based store** and a lightweight **service layer** wrapping Axios.
-- Added **toast feedback** and **accessible form** patterns.
-- Wrote clear **API docs**, **.env templates**, and screenshots to improve DX.
 
-## 🛣️ Future Enhancements
+
+🛣️ Future Enhancements
 - Category-wise charts & monthly summaries
 - CSV export / import
 - Pagination & search
