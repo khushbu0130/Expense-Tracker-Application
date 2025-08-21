@@ -2,10 +2,15 @@
 
 A clean, responsive expense tracker built with **MongoDB + Express + React + Node**. Track income/expense, see running balance, and manage your transactions with simple auth.
 
-Login Page :
+Login Page: Secure entry with email & password.
+
+
 ![image alt](https://github.com/khushbu0130/Expense-Tracker-Application/blob/35e797ff46e86d35010a290e4f71b0b7a2295437/Screenshots/Login%20Page.jpg)
 
-Signup Page :
+
+Signup Page: User registration with name, email, and password.
+
+
 ![image alt](https://github.com/khushbu0130/Expense-Tracker-Application/blob/07da98be72ed41b6f431248dd7d600bb321b3a25/Screenshots/Signup%20Page.jpg)
 
 
