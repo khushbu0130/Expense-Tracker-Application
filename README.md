@@ -19,7 +19,12 @@ Signup Page: User registration with name, email, and password.
 ![image alt](https://github.com/khushbu0130/Expense-Tracker-Application/blob/a7d8bf44c43ab1ad9f541efa6225871ba16286cb/Screenshots/1.Dashboard.jpg)
 
 
+
 ![image alt](https://github.com/khushbu0130/Expense-Tracker-Application/blob/4e550f0edabc46e3c999c65d77d76efc6f7da947/Screenshots/2.Dashboard.jpg)
+
+
+
+![image alt](https://github.com/khushbu0130/Expense-Tracker-Application/blob/4cba2ca8a70ab3df2ec51b271ddbb19f4e96d79f/Screenshots/Adding%20Expense.jpg)
 
 
 
