@@ -1,6 +1,11 @@
 A full-stack Expense Tracker App built with the MERN stack — designed to help users manage their finances efficiently.
 Track your income, monitor expenses, and stay financially organized with a clean and responsive interface.
 
+📸 Project Walkthrough :
+
+1️⃣ Dashboard
+
+
 
 🚀 Tech Stack
 
