@@ -3,7 +3,7 @@
 A clean, responsive expense tracker built with **MongoDB + Express + React + Node**. Track income/expense, see running balance, and manage your transactions with simple auth.
 
 <p align="center">
-  <img src="assets/screenshots/login.jpg" alt="Login" width="45%"/>
+  <img src="C:\Users\khush\OneDrive\Pictures\Login Page.jpg" alt="Login" width="45%"/>
   <img src="assets/screenshots/signup.jpg" alt="Signup" width="45%"/>
   <br/>
   <img src="assets/screenshots/toast-success.jpg" alt="Success toast on add expense" width="45%"/>
@@ -13,7 +13,7 @@ A clean, responsive expense tracker built with **MongoDB + Express + React + Nod
   <img src="assets/screenshots/frontend-compiled.jpg" alt="Frontend compiled successfully" width="45%"/>
 </p>
 
-## 🚀 What makes it interesting (for recruiters)
+
 - **Auth + Protected UI** (Login/Signup flow).
 - **State management with React Context** and modular components.
 - **REST API** (Node/Express) + **MongoDB (Mongoose)** for persistence.
