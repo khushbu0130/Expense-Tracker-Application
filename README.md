@@ -35,7 +35,7 @@ Signup Page: User registration with name, email, and password.
 
 
 
-Demo Link : 
+🔗 Demo Link : 
 - **Auth + Protected UI** (Login/Signup flow).
 - **State management with React Context** and modular components.
 - **REST API** (Node/Express) + **MongoDB (Mongoose)** for persistence.
