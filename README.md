@@ -3,7 +3,7 @@
 A clean, responsive expense tracker built with **MongoDB + Express + React + Node**. Track income/expense, see running balance, and manage your transactions with simple auth.
 
 <p align="center">
-  <img src="C:\Users\khush\OneDrive\Pictures\Login Page.jpg" alt="Login" width="45%"/>
+  <img src="https://drive.google.com/file/d/1yX4269p3gkZ8_MBHl1zowm6cGYWubskl/view?usp=sharing" alt="Login" width="45%"/>
   <img src="assets/screenshots/signup.jpg" alt="Signup" width="45%"/>
   <br/>
   <img src="assets/screenshots/toast-success.jpg" alt="Success toast on add expense" width="45%"/>
